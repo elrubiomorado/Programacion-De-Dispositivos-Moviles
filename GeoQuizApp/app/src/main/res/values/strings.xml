@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">El bicho o Messi</string>
+    <!--String para la GeoQuizApp-->
+
+    <!--Questions-->
+    <string name="question_bicho">El bicho es mejor que Messi?</string>
+    <string name="question_best_movie">Your Name es la mejor pelicula?</string>
+    <string name="question_checo">Checo Pérez > Max Verstappen</string>
+    <string name="question_tilin">Tilin > Amlo</string>
+
+
+    <!--Buttons-->
+    <string name="true_button">True</string>
+    <string name="false_button">True</string>
+    <string name="next_button">siguiente pregunta</string>
+
+    <!--Toast-->
+    <string name="correct_toast">Si le sabes pana!</string>
+    <string name="incorrect_toast">Verda que si le sabes!</string>
+
+    <!---->
+
+</resources>
