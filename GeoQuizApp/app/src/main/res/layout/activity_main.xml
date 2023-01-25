@@ -30,8 +30,6 @@
             android:layout_height="wrap_content"
             android:backgroundTint="#04BF9D"
             android:text="@string/false_button" />
-
-
     </LinearLayout>
     <Button
         android:id="@+id/next_button"

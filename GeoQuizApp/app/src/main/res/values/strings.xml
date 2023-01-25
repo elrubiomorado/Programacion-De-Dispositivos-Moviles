@@ -1,4 +1,5 @@
 <resources>
+
     <string name="app_name">QuizApp</string>
     <!--String para la GeoQuizApp-->
 
@@ -17,7 +18,6 @@
     <!--Toast-->
     <string name="correct_toast">Si le sabes pana!</string>
     <string name="incorrect_toast">No le sabes pana!</string>
-
     <!---->
 
 </resources>
