@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">El bicho o Messi</string>
+    <string name="app_name">QuizApp</string>
     <!--String para la GeoQuizApp-->
 
     <!--Questions-->
@@ -11,12 +11,12 @@
 
     <!--Buttons-->
     <string name="true_button">True</string>
-    <string name="false_button">True</string>
+    <string name="false_button">false</string>
     <string name="next_button">siguiente pregunta</string>
 
     <!--Toast-->
     <string name="correct_toast">Si le sabes pana!</string>
-    <string name="incorrect_toast">Verda que si le sabes!</string>
+    <string name="incorrect_toast">No le sabes pana!</string>
 
     <!---->
 
